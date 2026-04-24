@@ -29,7 +29,7 @@ dotnet run
 
 ## 📸 Screenshot
 
-![Minha Aplicação](./img/screenshot.png)
+![Minha Aplicação](Print MeuCurrículo.png)
 
 ## 🧠 Heurística: Ajuda e Documentação
 
