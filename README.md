@@ -18,7 +18,7 @@ cd MeuCurriculo
 dotnet run
 
 5. Abra no navegador:
-[https://localhost:5001](http://localhost:5207/)
+[http://localhost:5207/]
 
 ## 💻 Tecnologias Utilizadas
 
