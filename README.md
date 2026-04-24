@@ -29,7 +29,7 @@ dotnet run
 
 ## 📸 Screenshot
 
-![Minha Aplicação](Print MeuCurrículo.png)
+![Minha Aplicação](https://github.com/paularaphisa-boop/una-blazor-lista14/blob/519d6ab186ab8cdfd8f40df4857ef848ca8a0ff4/Print%20MeuCurr%C3%ADculo.png)
 
 ## 🧠 Heurística: Ajuda e Documentação
 
